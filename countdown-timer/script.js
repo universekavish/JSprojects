@@ -19,10 +19,7 @@ function countdown(){
     daysEl.innerHTML = days;
     hoursEl.innerHTML = formatTime(hours);
     minutesEl.innerHTML = formatTime(minutes);
-    secondsEl.innerHTML = formatTime(seconds);
-
-    console.log(days, hours, minutes, seconds);
-    
+    secondsEl.innerHTML = formatTime(seconds);    
 }
 
 function formatTime(time){
