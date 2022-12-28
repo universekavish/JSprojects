@@ -29,6 +29,14 @@ const quizData = [
         b : 'C',
         c : 'C++',
         d : 'Nothing',
-        correct : 'a'
+        correct : 'a '
+    },
+    {
+        question : 'What is HTML full form?',
+        a : 'html',
+        b : 'c',
+        c : 'hyper text markup lang',
+        d : 'react',
+        correct : 'c'
     }
 ]
